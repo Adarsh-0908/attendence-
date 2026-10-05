@@ -1,0 +1,290 @@
+{
+  "users": [
+    {
+      "id": "fac-1",
+      "name": "Dr. Rajesh Sharma",
+      "email": "rajesh.ec@college.edu",
+      "facultyId": "FAC-EC-101",
+      "passwordHash": "$2b$10$stcqHUvsfNI519PpjD0niuhz2N4LzwWcdCxC2HbF9EYCWXjGxMlZG",
+      "branch": "EC",
+      "division": "EC-I",
+      "createdAt": "2026-10-05T13:50:11.135Z"
+    },
+    {
+      "id": "fac-2",
+      "name": "Prof. Neha Gupta",
+      "email": "neha.ict@college.edu",
+      "facultyId": "FAC-ICT-202",
+      "passwordHash": "$2b$10$stcqHUvsfNI519PpjD0niuhz2N4LzwWcdCxC2HbF9EYCWXjGxMlZG",
+      "branch": "ICT",
+      "division": "ICT-A",
+      "createdAt": "2026-10-05T13:50:11.135Z"
+    },
+    {
+      "id": "fac-1791208836462-n19w",
+      "name": "Adarsh",
+      "email": "adarsh@123.edu",
+      "facultyId": "FAC-EC-6462",
+      "passwordHash": "$2b$10$Vxugo6I6hWvZDmQelm9PjOM24Yc73xna.M.DIxk5Wd0EHdwzWLWF2",
+      "branch": "EC",
+      "division": "EC-I",
+      "createdAt": "2026-10-05T14:00:36.462Z"
+    }
+  ],
+  "students": [
+    {
+      "id": "stu-101",
+      "enrollmentNo": "210020107001",
+      "name": "Aarav Patel",
+      "rollNo": "01",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-102",
+      "enrollmentNo": "210020107002",
+      "name": "Diya Sharma",
+      "rollNo": "02",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-103",
+      "enrollmentNo": "210020107003",
+      "name": "Kabir Mehta",
+      "rollNo": "03",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-104",
+      "enrollmentNo": "210020107004",
+      "name": "Ananya Desai",
+      "rollNo": "04",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-105",
+      "enrollmentNo": "210020107005",
+      "name": "Rohan Joshi",
+      "rollNo": "05",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-106",
+      "enrollmentNo": "210020107006",
+      "name": "Isha Shah",
+      "rollNo": "06",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-107",
+      "enrollmentNo": "210020107007",
+      "name": "Yash Verma",
+      "rollNo": "07",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-108",
+      "enrollmentNo": "210020107008",
+      "name": "Pooja Trivedi",
+      "rollNo": "08",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-109",
+      "enrollmentNo": "210020107009",
+      "name": "Siddharth Dave",
+      "rollNo": "09",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-110",
+      "enrollmentNo": "210020107010",
+      "name": "Meera Rajput",
+      "rollNo": "10",
+      "branch": "EC",
+      "division": "EC-I"
+    },
+    {
+      "id": "stu-201",
+      "enrollmentNo": "210020107051",
+      "name": "Tanvi Pandya",
+      "rollNo": "51",
+      "branch": "EC",
+      "division": "EC-J"
+    },
+    {
+      "id": "stu-202",
+      "enrollmentNo": "210020107052",
+      "name": "Harshil Vora",
+      "rollNo": "52",
+      "branch": "EC",
+      "division": "EC-J"
+    },
+    {
+      "id": "stu-203",
+      "enrollmentNo": "210020107053",
+      "name": "Kavya Soni",
+      "rollNo": "53",
+      "branch": "EC",
+      "division": "EC-J"
+    },
+    {
+      "id": "stu-204",
+      "enrollmentNo": "210020107054",
+      "name": "Dev Patel",
+      "rollNo": "54",
+      "branch": "EC",
+      "division": "EC-J"
+    },
+    {
+      "id": "stu-205",
+      "enrollmentNo": "210020107055",
+      "name": "Riddhi Vyas",
+      "rollNo": "55",
+      "branch": "EC",
+      "division": "EC-J"
+    },
+    {
+      "id": "stu-301",
+      "enrollmentNo": "210020116001",
+      "name": "Ayush Parmar",
+      "rollNo": "01",
+      "branch": "ICT",
+      "division": "ICT-A"
+    },
+    {
+      "id": "stu-302",
+      "enrollmentNo": "210020116002",
+      "name": "Bhavya Bhatt",
+      "rollNo": "02",
+      "branch": "ICT",
+      "division": "ICT-A"
+    },
+    {
+      "id": "stu-303",
+      "enrollmentNo": "210020116003",
+      "name": "Chirag Chauhan",
+      "rollNo": "03",
+      "branch": "ICT",
+      "division": "ICT-A"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "sub-101",
+      "code": "EC501",
+      "name": "Digital Signal Processing",
+      "branch": "EC",
+      "division": "EC-I",
+      "semester": "5"
+    },
+    {
+      "id": "sub-102",
+      "code": "EC502",
+      "name": "VLSI Design & Technology",
+      "branch": "EC",
+      "division": "EC-I",
+      "semester": "5"
+    },
+    {
+      "id": "sub-103",
+      "code": "EC503",
+      "name": "Microcontroller & Interfacing",
+      "branch": "EC",
+      "division": "EC-I",
+      "semester": "5"
+    },
+    {
+      "id": "sub-104",
+      "code": "EC501",
+      "name": "Digital Signal Processing",
+      "branch": "EC",
+      "division": "EC-J",
+      "semester": "5"
+    },
+    {
+      "id": "sub-105",
+      "code": "EC504",
+      "name": "Wireless Communication",
+      "branch": "EC",
+      "division": "EC-J",
+      "semester": "5"
+    },
+    {
+      "id": "sub-201",
+      "code": "ICT301",
+      "name": "Object Oriented Programming with Java",
+      "branch": "ICT",
+      "division": "ICT-A",
+      "semester": "3"
+    },
+    {
+      "id": "sub-202",
+      "code": "ICT302",
+      "name": "Data Structures & Algorithms",
+      "branch": "ICT",
+      "division": "ICT-A",
+      "semester": "3"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att-001",
+      "branch": "EC",
+      "division": "EC-I",
+      "subjectId": "sub-101",
+      "subjectName": "Digital Signal Processing",
+      "subjectCode": "EC501",
+      "date": "2026-10-01",
+      "facultyId": "fac-1",
+      "facultyName": "Dr. Rajesh Sharma",
+      "records": {
+        "stu-101": "P",
+        "stu-102": "P",
+        "stu-103": "A",
+        "stu-104": "P",
+        "stu-105": "P",
+        "stu-106": "P",
+        "stu-107": "A",
+        "stu-108": "P",
+        "stu-109": "P",
+        "stu-110": "P"
+      },
+      "createdAt": "2026-10-01T10:30:00.000Z",
+      "updatedAt": "2026-10-01T10:30:00.000Z"
+    },
+    {
+      "id": "att-002",
+      "branch": "EC",
+      "division": "EC-I",
+      "subjectId": "sub-101",
+      "subjectName": "Digital Signal Processing",
+      "subjectCode": "EC501",
+      "date": "2026-10-03",
+      "facultyId": "fac-1",
+      "facultyName": "Dr. Rajesh Sharma",
+      "records": {
+        "stu-101": "P",
+        "stu-102": "P",
+        "stu-103": "P",
+        "stu-104": "P",
+        "stu-105": "A",
+        "stu-106": "P",
+        "stu-107": "P",
+        "stu-108": "P",
+        "stu-109": "A",
+        "stu-110": "P"
+      },
+      "createdAt": "2026-10-03T11:00:00.000Z",
+      "updatedAt": "2026-10-03T11:00:00.000Z"
+    }
+  ]
+}
